@@ -39,7 +39,8 @@
     "logging",
     "format",
     "logs",
-    "log"
+    "log",
+    "lumberjack"
   ],
   "contributors": [
     "Andres Escobar <Andres.Escobar@aexp.com> (https://github.com/anescobar1991)",
